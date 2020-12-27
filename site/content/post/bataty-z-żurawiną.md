@@ -8,6 +8,18 @@ description: >+
 
 image: img/bataty.jpg
 ---
+## Składniki
+- 2 duże bataty
+- garść żurawiny
+- 1 kostka fety
+- paczka rukoli
+- 2 gotowane buraki
+- sos balsamiczny
+- sól
+- pieprz
+
+## Sposób przygotowania
+
 - Bataty pokroić w grube plastry, przyprawić solą i pieprzem i piec 20 minut bez termoobiegu, podwójna grzałka.
 Zalać żurawinę wrzątkiem i odstawić na parę minut. Potem wylać wodę.
 
